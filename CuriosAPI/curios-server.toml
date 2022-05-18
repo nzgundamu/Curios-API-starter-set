@@ -1,0 +1,11 @@
+#List of curio slot type settings
+curiosSettings = []
+[[curiosSettings]]
+  identifier = "crown"
+[[curiosSettings]]
+  identifier = "ring"
+[[curiosSettings]]
+  identifier = "necklace"
+[[curiosSettings]]
+  identifier = "knuckles"
+
